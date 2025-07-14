@@ -152,12 +152,5 @@ The project includes comprehensive visualizations:
 - Cluster visualization in 2D and 3D space
 - Comparative analysis across different algorithms
 - Business insights dashboard
-
-## 🙏 Acknowledgments
-
-- [Kaggle](https://www.kaggle.com) for providing the dataset
-- [Scikit-learn](https://scikit-learn.org/) for machine learning tools
-- [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for visualization capabilities
-
 ---
 
