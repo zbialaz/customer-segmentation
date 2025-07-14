@@ -1,5 +1,8 @@
 # 🛍️ Customer Segmentation Analysis
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
+
 ## 📊 Project Overview
 
 This project implements a comprehensive customer segmentation analysis using K-Means clustering algorithm on mall customer data. The analysis identifies distinct customer segments based on demographic and behavioral characteristics to support targeted marketing strategies.
